@@ -1,0 +1,1 @@
+You can grab a newer release and unpack here.  Save as SDL3.
